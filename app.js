@@ -19,7 +19,7 @@ var commentRoutes        = require("./routes/comments"),
 
 
 // mongoose.connect("mongodb://localhost/yelp_camp");
-mongoose.connect("mongodb://oskarahl:1234@ds119380.mlab.com:19380/yelpcamp")
+mongoose.connect()
 app.use(bodyParser.urlencoded({extended:true}))
 app.set("view engine", "ejs");
 //dirname refers to directory where this script is running (i.e. current directory)
