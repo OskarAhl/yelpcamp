@@ -17,6 +17,7 @@ Back end: MongoDB, Node.JS (w/ Express.Js, Passport.Js, Mongoose, EJS, Body-pars
 
 # How is it made? 
 - Signups, authentication, authorization through Passport.Js
+- Routing with the help of Express.Js
 - Modules, partials(header, footer) with EJS
 - Form data with body-parser
 - MongoDB with mongoose for Schemas (campgrounds and comments) 
