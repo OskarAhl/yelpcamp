@@ -1,7 +1,7 @@
 # Yelpcamp
 Yelp, but for campsites. __RESTful routing + full CRUD functionality__
 
-User can:
+User is able to:
 - Signup and make account
 - Login/Log out
 - View index of campgrounds from all users
